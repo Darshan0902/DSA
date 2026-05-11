@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0605-can-place-flowers) |
 | [0724-find-pivot-index](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [2553-separate-the-digits-in-an-array](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/2553-separate-the-digits-in-an-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Prefix Sum
 |  |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0392-is-subsequence) |
+## Simulation
+|  |
+| ------- |
+| [2553-separate-the-digits-in-an-array](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/2553-separate-the-digits-in-an-array) |
 <!---LeetCode Topics End-->
