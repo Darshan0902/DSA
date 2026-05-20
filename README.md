@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1004-max-consecutive-ones-iii) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/2553-separate-the-digits-in-an-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
@@ -19,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0724-find-pivot-index) |
+| [1004-max-consecutive-ones-iii](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1004-max-consecutive-ones-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -118,5 +120,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+## Binary Search
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
