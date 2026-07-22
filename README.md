@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0334-increasing-triplet-subsequence) |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0169-majority-element) |
 | [1207-unique-number-of-occurrences](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -54,10 +56,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1657-determine-if-two-strings-are-close) |
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0169-majority-element) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1657-determine-if-two-strings-are-close) |
 ## Database
 |  |
@@ -173,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0933-number-of-recent-calls) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
