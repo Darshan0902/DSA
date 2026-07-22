@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0169-majority-element](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0334-increasing-triplet-subsequence) |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0189-rotate-array) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3783-mirror-distance-of-an-integer) |
 ## Two Pointers
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0392-is-subsequence) |
