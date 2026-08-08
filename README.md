@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1732-find-the-highest-altitude) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/2553-separate-the-digits-in-an-array) |
+| [2607-make-k-subarray-sums-equal](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/2607-make-k-subarray-sums-equal) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 ## Prefix Sum
 |  |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0628-maximum-product-of-three-numbers) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/1657-determine-if-two-strings-are-close) |
+| [2607-make-k-subarray-sums-equal](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/2607-make-k-subarray-sums-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3536-maximum-product-of-two-digits) |
 ## Counting
 |  |
@@ -114,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0189-rotate-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0628-maximum-product-of-three-numbers) |
+| [2607-make-k-subarray-sums-equal](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/2607-make-k-subarray-sums-equal) |
 | [3536-maximum-product-of-two-digits](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3536-maximum-product-of-two-digits) |
 | [3761-minimum-absolute-distance-between-mirror-pairs](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3761-minimum-absolute-distance-between-mirror-pairs) |
 | [3783-mirror-distance-of-an-integer](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/3783-mirror-distance-of-an-integer) |
@@ -139,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0605-can-place-flowers) |
 | [0649-dota2-senate](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0649-dota2-senate) |
+| [2607-make-k-subarray-sums-equal](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/2607-make-k-subarray-sums-equal) |
 ## String Matching
 |  |
 | ------- |
@@ -196,4 +200,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [2607-make-k-subarray-sums-equal](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/2607-make-k-subarray-sums-equal) |
 <!---LeetCode Topics End-->
