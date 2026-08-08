@@ -192,4 +192,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
