@@ -178,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0021-merge-two-sorted-lists) |
 | [0394-decode-string](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0394-decode-string) |
 ## Design
 |  |
@@ -204,4 +205,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2607-make-k-subarray-sums-equal](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/2607-make-k-subarray-sums-equal) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Darshan0902/LEETCODE-2026-2027/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
